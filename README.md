@@ -1,2 +1,2 @@
 # ECE-250
-Course work for data structures and algorithms course
+Course work for Algorithms and Data Structures course
